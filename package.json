@@ -1,0 +1,17 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Solutions of leetcode problems in Javascript",
+  "main": "index.js",
+  "author": "PaulShovan",
+  "license": "MIT",
+  "scripts": {
+    "prettier-format": "prettier --config .prettierrc 'JavaScript/**/*.js' --write"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "2.8.4"
+  }
+}
